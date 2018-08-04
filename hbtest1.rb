@@ -1,9 +1,9 @@
 class Hbtest1 < Formula
   desc "This is a home rew test formula"
   homepage "https://github.com/nhawkin/homebrew-test"
-  url "https://github.com/nhawkin/homebrew-test/releases/download/v0.1/test1-0.1.tar.gz"
-  sha256 "cab3012c7f0fbcf8187b809a24ab104785df28008c77b8a58104e94e085b8b01"
-  version "0.1"
+  url "https://github.com/nhawkin/homebrew-test/releases/download/v0.2/test1-0.2.tar.gz"
+  sha256 "82559d57d7325d8b20b5926b0cfcb1ae6b147224d04c6f3bb4965764d59f234e"
+  version "0.2"
   
   bottle :unneeded
 
