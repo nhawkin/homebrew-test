@@ -8,10 +8,10 @@ class Hbtest1 < Formula
   bottle :unneeded
 
   def install
-    bin.install "hbtest1"
+    bin.install "test1.py"
   end
 
   test do
-    system "#{bin}/hbtest1", "--version"
+    system "#{bin}/test1.py", "--version"
   end
 end
