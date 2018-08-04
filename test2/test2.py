@@ -1,3 +1,3 @@
-#/bin/python
+#/usr/bin/python
 
 print "hi2"
