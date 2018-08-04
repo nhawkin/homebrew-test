@@ -1,3 +1,3 @@
-#/usr/bin/python
+#!/usr/bin/python
 
-print "hi2"
+print("hi2")
