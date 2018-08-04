@@ -1,4 +1,4 @@
-class HBTest1 < Formula
+class Hbtest1 < Formula
   desc "This is a home rew test formula"
   homepage "https://github.com/nhawkin/homebrew-test"
   url "https://github.com/nhawkin/homebrew-test/releases/download/v0.1/test1-0.1.tar.gz"
